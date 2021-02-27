@@ -1,1 +1,1 @@
-Welcome to RobBot, a cryptocurency trading robot!
+Welcome to RobBot®, a cryptocurency algorithmic trading bot!
